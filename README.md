@@ -50,7 +50,7 @@ lept::parse(&v, "{ }") // json 文本
 * 断言
 * 内存泄漏检测
 * utf-8 编码
-* 熟悉前向声明, 静态函数等语法规则, memcpy, strtod 等函数使用
+* 熟悉枚举，前向声明, 静态函数, 联合等语法规则, memcpy, strtod 等函数使用
 * 宏定义 do while 包裹技巧, \#ifdef 0/1 注释技巧
 * 代码重构
 
